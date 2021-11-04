@@ -1,3 +1,10 @@
+<img width="1259" alt="multForm2" src="https://user-images.githubusercontent.com/38070740/140310132-748d604e-0300-493d-ba4c-3bf89022668e.png">
+
+<img width="1206" alt="multForm3" src="https://user-images.githubusercontent.com/38070740/140310144-742de7f3-3800-4106-9021-5061fc7ea3e2.png">
+
+<img width="918" alt="multForm1" src="https://user-images.githubusercontent.com/38070740/140310113-a6fa3494-c840-4895-9b61-7c48b5268a00.png">
+# Mult Form React - Simple project to study using React (React Router, Context, Hooks) with TypeScript
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
